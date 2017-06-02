@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
-import { RemoteComponent } from './remote_component/app.remote-component';
+import { RemoteComponent } from './remote-component/app.remote-component';
 
 @NgModule({
   declarations: [
